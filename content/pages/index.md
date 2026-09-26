@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      FleetCare Kenya is a end-to-end fleet management company dedicated to maximizing returns for
+      vehicle and motorcycle owners across Kenya. We bridge the gap between asset owners and
+      commercial transport opportunities by taking complete ownership of day-to-day operations.
     actions:
       - label: Get started
         altText: ''
