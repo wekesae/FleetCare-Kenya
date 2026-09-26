@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Asset Security & Risk Management
-        subtitle: Numbers Done
+        subtitle:  
         text: >-
           Vetted Driver Placement
           Telematics & GPS Tracking
@@ -90,12 +90,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: Lifecycle Maintenance & Fleet Care
+        subtitle:  
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Preventative Servicing
+          Routine Inspections
+          Genuine Parts Sourcing
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -115,12 +115,12 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: Revenue & Daily Operations Management
+        subtitle:  
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Driver Performance Monitoring
+          Rapid Driver Replacement
+          Automated Remittances
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: FleetCare Kenya
       color: text-primary
       styles:
         self:
