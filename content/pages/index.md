@@ -7,7 +7,7 @@ sections:
       text: Your Vehicle. Our Management. Your Profit.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Who We Are
     text: >
       FleetCare Kenya is a end-to-end fleet management company dedicated to maximizing returns for
       vehicle and motorcycle owners across Kenya. We bridge the gap between asset owners and
