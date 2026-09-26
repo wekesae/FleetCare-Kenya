@@ -53,28 +53,21 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Why Choose FleetCare Kenya?
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Why Choose FleetCare Kenya?
+    subtitle: 
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Asset Security & Risk Management
         subtitle: Numbers Done
         text: >-
-          Vetted, High-Performing Drivers: Hands-on supervision and continuous skill
-          development.
-          Zero Operational Friction: We handle non-paying drivers, maintenance trips, and
-          insurance claims for you.
-          Reduced Vehicle Downtime: Preventative care and fast driver turnarounds keep your car
-          on the road longer.
-          Complete Financial Transparency: Clear line-item reports detailing every shilling
-          earned and spent.
-          Asset Protection: GPS telematics and preventative maintenance preserve your car's longterm resale value.
-          Peace of Mind: Genuine passive income from the commercial transport sector.
+          Vetted Driver Placement
+          Telematics & GPS Tracking
+          Insurance & Claims Desk
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
