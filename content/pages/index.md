@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Your Vehicle. Our Management. Your Profit.
-      color: text-blue
+      color: text-primary
       type: TitleBlock
     subtitle: Who We Are
     text: >
