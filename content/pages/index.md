@@ -45,7 +45,7 @@ sections:
       - type: FeaturedItem
         title: Asset Security & Risk Management
         subtitle:  
-        text: >-
+        text: |
           1.Vetted Driver Placement
           2.Telematics & GPS Tracking
           3.Insurance & Claims Desk
