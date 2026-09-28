@@ -9,28 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Who We Are
     text: >
-      CabCare Kenya is a end-to-end Cab management company dedicated to maximizing returns for
+      CabCare Kenya is an end-to-end Cab management company dedicated to maximizing returns for
       vehicle and motorcycle owners across Kenya. We bridge the gap between asset owners and
       commercial transport opportunities by taking complete ownership of day-to-day operations.
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
