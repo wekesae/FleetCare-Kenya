@@ -46,8 +46,8 @@ sections:
         title: Asset Security & Risk Management
         subtitle:  
         text: |
-          1.Vetted Driver Placement
-          2.Telematics & GPS Tracking
+          1.Vetted Driver Placement<br />2.
+          2.Telematics & GPS Tracking<br />3.
           3.Insurance & Claims Desk
         actions: []
         elementId: null
