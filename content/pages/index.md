@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Who We Are
     text: >
-      FleetCare Kenya is a end-to-end fleet management company dedicated to maximizing returns for
+      CabCare Kenya is a end-to-end Cab management company dedicated to maximizing returns for
       vehicle and motorcycle owners across Kenya. We bridge the gap between asset owners and
       commercial transport opportunities by taking complete ownership of day-to-day operations.
     actions:
@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: FleetCare Kenya
+      label: CabCare Kenya
       color: text-primary
       type: Badge
     elementId: ''
@@ -53,7 +53,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why Choose FleetCare Kenya?
+      text: Why Choose CabCare Kenya?
       color: text-dark
       styles:
         self:
@@ -65,9 +65,9 @@ sections:
         title: Asset Security & Risk Management
         subtitle:  
         text: >-
-          Vetted Driver Placement
-          Telematics & GPS Tracking
-          Insurance & Claims Desk
+          1.Vetted Driver Placement
+          2.Telematics & GPS Tracking
+          3.Insurance & Claims Desk
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -90,12 +90,12 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Lifecycle Maintenance & Fleet Care
+      - title: Lifecycle Maintenance & Cab Care
         subtitle:  
         text: >-
-          Preventative Servicing
-          Routine Inspections
-          Genuine Parts Sourcing
+          1.Preventative Servicing
+          2.Routine Inspections
+          3.Genuine Parts Sourcing
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -118,9 +118,9 @@ sections:
       - title: Revenue & Daily Operations Management
         subtitle:  
         text: >-
-          Driver Performance Monitoring
-          Rapid Driver Replacement
-          Automated Remittances
+          1.Driver Performance Monitoring
+          2.Rapid Driver Replacement
+          3.Automated Remittances
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -149,7 +149,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: FleetCare Kenya
+      label: CabCare Kenya
       color: text-primary
       styles:
         self:
