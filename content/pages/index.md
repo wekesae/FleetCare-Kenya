@@ -13,7 +13,7 @@ sections:
       vehicle and motorcycle owners across Kenya. We bridge the gap between asset owners and
       commercial transport opportunities by taking complete ownership of day-to-day operations.
     media:
-      url: /images/main-hero.svg
+      url: /images/cabcarelogo.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
