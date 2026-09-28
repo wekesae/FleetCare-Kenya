@@ -14,7 +14,7 @@ sections:
       commercial transport opportunities by taking complete ownership of day-to-day operations.
     media:
       url: /images/cabcarelogo.png
-      altText: Unblock your team boost your time to production preview
+      altText: Your Vehicle. Our Management. Your Profit.
       elementId: ''
       type: ImageBlock
     badge:
