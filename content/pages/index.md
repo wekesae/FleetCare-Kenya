@@ -180,48 +180,21 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: Why Choose FleetCare Kenya?
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: 
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      •	Vetted, High-Performing Drivers: Hands-on supervision and continuous skill development.
+      •	Zero Operational Friction: We handle non-paying drivers, maintenance trips, and insurance claims for you.
+      •	Reduced Vehicle Downtime: Preventative care and fast driver turnarounds keep your car on the road longer.
+      •	Complete Financial Transparency: Clear line-item reports detailing every shilling earned and spent.
+      •	Asset Protection: GPS telematics and preventative maintenance preserve your car's long-term resale value.
+      •	Peace of Mind: Genuine passive income from the commercial transport sector.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
