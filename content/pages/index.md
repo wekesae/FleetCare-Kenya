@@ -35,7 +35,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       text: Why Choose CabCare Kenya?
-      color: text-dark
+      color: text-blue
       styles:
         self:
           textAlign: center
