@@ -47,7 +47,7 @@ sections:
         subtitle:  
         text: |
           1.Vetted Driver Placement<br />
-          2.Telematics & GPS Tracking<br />
+          2.GPS Tracking & Telematics<br />
           3.Insurance & Claims Desk
         actions: []
         elementId: null
